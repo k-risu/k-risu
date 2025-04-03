@@ -1,3 +1,4 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=k-risu%20Github&fontSize=90" />
 ### 모든일에 **최선**을 다하는 **김기동**입니다.
 
 끊임없이 배우고 성장하며, 사용자의 경험을 최우선으로 생각하는 혁신적인 프론트엔드 개발자가 되기 위해 노력하고 있습니다.

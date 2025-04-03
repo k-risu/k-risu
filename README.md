@@ -21,7 +21,7 @@
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-risu&layout=compact&theme=default" style="height: 200px;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=k-risu&show_icons=true&theme=default" style="height: 200px;" />
+<div align="center" style="display: flex; justify-content: center; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-risu&layout=compact&theme=default" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=k-risu&show_icons=true&theme=default" height="200" />
 </div>

@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=k-risu%20Github&fontSize=90" />
 모든일에 최선을 다하는 김기동입니다.
 
-끊임없이 배우고 성장하며, 사용자의 경험을 최우선으로 생각하는 혁신적인 프론트엔드 개발자가 되기 위해 노력하고 있습니다!
+끊임없이 배우고 성장하며, 사용자의 경험을 최우선으로 생각하는 혁신적인 프론트엔드 개발자가 되기 위해 노력하고 있습니다.
 
 [![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)](https://tungsten-earl-37a.notion.site/199ba0c4eae880a18e87dc7622ed5b0b?pvs=74) 주소
 
